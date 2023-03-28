@@ -1,1 +1,13 @@
-/*Hoja de estilos principal*/
+/*
+Theme Name: Theme name
+Theme URI: 
+Author: VOOV - Development team
+Author URI:https://voov.io
+Description: Wordpress theme company name
+Version: 1.0.0
+License: GNU General Public License v2
+licese URI:http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: Companyname
+*/
+
+@import "css/style.css"
